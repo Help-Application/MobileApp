@@ -30,7 +30,7 @@
     "axios": "^0.19.2",
     "dayjs": "^1.8.23",
     "formik": "^2.1.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "patch-package": "^6.2.1",
     "postinstall-postinstall": "^2.0.0",
     "react": "16.11.0",
