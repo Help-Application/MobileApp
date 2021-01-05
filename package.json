@@ -27,7 +27,7 @@
     "@react-navigation/bottom-tabs": "^5.2.2",
     "@react-navigation/native": "^5.1.0",
     "@react-navigation/stack": "^5.2.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dayjs": "^1.8.23",
     "formik": "^2.1.4",
     "lodash": "^4.17.15",
